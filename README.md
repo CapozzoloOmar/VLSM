@@ -55,8 +55,7 @@ dobbiamo suddividere le reti assegnando uno specifico range di ip e il risultato
 ![image](https://user-images.githubusercontent.com/116788504/235343866-275951fc-61e1-4913-b433-1ba57b28c3c3.png)
 
 
-
-Impostati poi gli ip e le subnet mask di ogni dispositivo per capire se si è volto un buon lavoro bisogna fare una simulazione e dobbiamo fare in modo che i dispositivi iniviino un messaggio ai router per poter comunicare con ii dispositivi di altre sottoreti e poi questo messaggio ritorna indietro e se la comunicazione sarà andata a buon fine avremo un risultato di questo tipo:
+Per verificare che la configurazione fosse corretta, si doveva effettuare una simulazione in cui i dispositivi inviavano messaggi ai router per comunicare con i dispositivi di altre sottoreti. Se la comunicazione avveniva con successo, si poteva ritenere che la configurazione della rete fosse stata fatta correttamente.
 
 ![img](https://user-images.githubusercontent.com/116788504/235344486-f5b97161-9412-445b-bb71-61ea3dedc1ad.jpg)
 
