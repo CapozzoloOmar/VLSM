@@ -77,6 +77,8 @@ Questa tecnica è molto utile quando si ha a che fare con reti di grandi dimensi
 
 Per implementare correttamente il VLSM, è necessario conoscere bene le reti e le loro esigenze, in modo da suddividere correttamente la rete in sottoreti di dimensioni adeguate. Inoltre, è importante prestare attenzione alla configurazione dei dispositivi di rete, in modo da assicurarsi che ogni dispositivo abbia l'indirizzo IP corretto e sia configurato correttamente per la sottorete in cui si trova.
 
+Inoltre, il VLSM consente di implementare la sicurezza della rete in modo più efficace, in quanto ogni sottorete può essere considerata come una zona di sicurezza separata. Ciò significa che è possibile implementare regole di sicurezza e controllo degli accessi più stringenti per ogni sottorete, limitando l'accesso ai dati sensibili solo alle persone autorizzate.
+
 In sintesi, il VLSM è una tecnica importante per la configurazione di reti di grandi dimensioni, in cui la gestione degli indirizzi IP è un fattore critico per il funzionamento corretto della rete stessa. La sua corretta implementazione richiede una buona conoscenza delle reti e delle loro esigenze, nonché una attenzione alla configurazione dei dispositivi di rete.
 
 
