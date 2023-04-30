@@ -2,7 +2,7 @@
 
 ## Cos'è il VLSM?
 
-VLSM significa Variable Lenght Subnet Mask e consiste nell' assegnare lo spazio host di dimensioni distinte tra le reti attraverso la distribuzione di una rete in diverse sottoreti.
+Il VLSM (Variable Length Subnet Mask) è una tecnica utilizzata per suddividere una rete in sottoreti di dimensioni diverse. Questo permette di assegnare un numero di indirizzi IP appropriato a ciascuna sottorete, in base alle necessità. In pratica, si suddivide la rete in sottoreti più piccole, in modo da utilizzare solo gli indirizzi IP necessari per ogni sottorete e minimizzare gli sprechi.
 
 ## Svolgimento
 In questo problema di laboratorio dovevamo creare una rete composta da :
@@ -71,5 +71,13 @@ Impostati poi gli ip e le subnet mask di ogni dispositivo per capire se si è vo
 
 
 ![img](https://user-images.githubusercontent.com/116788504/235344534-7d1849bc-1504-480a-af71-e7a4f3ee4d83.jpg)
+
+## Conclusione
+
+Questa tecnica è molto utile quando si ha a che fare con reti di grandi dimensioni, in cui gli indirizzi IP possono essere un fattore critico per il funzionamento corretto della rete stessa. Inoltre, consente di minimizzare gli sprechi di indirizzi IP, che altrimenti potrebbero non essere utilizzati e quindi sprecati.
+
+Per implementare correttamente il VLSM, è necessario conoscere bene le reti e le loro esigenze, in modo da suddividere correttamente la rete in sottoreti di dimensioni adeguate. Inoltre, è importante prestare attenzione alla configurazione dei dispositivi di rete, in modo da assicurarsi che ogni dispositivo abbia l'indirizzo IP corretto e sia configurato correttamente per la sottorete in cui si trova.
+
+In sintesi, il VLSM è una tecnica importante per la configurazione di reti di grandi dimensioni, in cui la gestione degli indirizzi IP è un fattore critico per il funzionamento corretto della rete stessa. La sua corretta implementazione richiede una buona conoscenza delle reti e delle loro esigenze, nonché una attenzione alla configurazione dei dispositivi di rete.
 
 
