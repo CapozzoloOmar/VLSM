@@ -15,7 +15,7 @@ e ad ogni pc dovevamo configurare l'ip e la subnet mask corrispondente alla slas
 
 ![image](https://user-images.githubusercontent.com/116788504/235343521-392084c8-518f-499c-a45c-8571ac7d4ed5.png)
 
-Successivamente diamo un ordine a queste sottoreti in ordine di grandezza: 
+Successivamente si doveva dare un ordine a queste sottoreti in base alla grandezza: 
 
 La sottorete A è quella che occupa 50 dispositivi :
 
@@ -50,7 +50,7 @@ ora guardando questa tabella :
 
 ![image](https://user-images.githubusercontent.com/116788504/235343706-810fc016-34ac-4671-bb5b-117d5d1748d6.png)
 
-dobbiamo suddividere le reti assegnando uno specifico range di ip e il risultato sarà questo : 
+Si dovevano ordinare le sottoreti in base alla loro grandezza e suddividerle assegnando uno specifico range di IP e il risultato è stato questo : 
 
 ![image](https://user-images.githubusercontent.com/116788504/235343866-275951fc-61e1-4913-b433-1ba57b28c3c3.png)
 
